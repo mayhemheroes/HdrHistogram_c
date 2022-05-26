@@ -1,5 +1,5 @@
 project: rnshah9/hdrhistogram-c
-target: hdrhistogram-c
+target: hdr-decoder
 
 cmds:
   - cmd: /repo/build/examples/hdr_decoder
