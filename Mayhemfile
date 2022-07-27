@@ -2,4 +2,4 @@ project: hdrhistogram-c
 target: hdr-decoder
 
 cmds:
-  - cmd: /repo/build/examples/hdr_decoder
+  - cmd: /install/bin/hdr_decoder
