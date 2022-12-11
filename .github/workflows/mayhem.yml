@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_hdr_decoder
+          - mayhem/Mayhemfile_hdr_base64_decoded_len
 
     steps:
       - uses: actions/checkout@v3
