@@ -1,0 +1,5 @@
+project: hdrhistogram-c
+target: hdr-decoder
+
+cmds:
+  - cmd: /install/bin/hdr_decoder

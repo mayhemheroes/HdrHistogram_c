@@ -1,0 +1,6 @@
+project: hdrhistogram-c
+target: hdr-base64-decoded-len
+
+cmds:
+  - cmd: /fuzz_hdr_base64_decoded_len
+    libfuzzer: true
